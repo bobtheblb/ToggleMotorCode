@@ -1,0 +1,6 @@
+See file:///home/bobtheblb/GoodToggleMotorCode/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramExecutableFrcUserProgramCpp.
+compiling togglemotor.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramExecutableFrcUserProgramCpp, see full log file:///home/bobtheblb/GoodToggleMotorCode/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt.
