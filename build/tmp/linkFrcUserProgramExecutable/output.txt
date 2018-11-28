@@ -1,4 +1,4 @@
-See file:///home/bobtheblb/GoodToggleMotorCode/build/tmp/linkFrcUserProgramExecutable/output.txt for all output for linkFrcUserProgramExecutable.
+See file:///home/bobtheblb/ToggleMotorCode/build/tmp/linkFrcUserProgramExecutable/output.txt for all output for linkFrcUserProgramExecutable.
 linking frcUserProgram successful.
 
-Finished linkFrcUserProgramExecutable, see full log file:///home/bobtheblb/GoodToggleMotorCode/build/tmp/linkFrcUserProgramExecutable/output.txt.
+Finished linkFrcUserProgramExecutable, see full log file:///home/bobtheblb/ToggleMotorCode/build/tmp/linkFrcUserProgramExecutable/output.txt.

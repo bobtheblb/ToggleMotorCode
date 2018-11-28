@@ -23,7 +23,7 @@ class ToggleMotor {
     toggle_talon(toggle_talon) {}; 
 
     void run_toggle_m(int i_button, float f_speed_on, float f_speed_off); 
-  
+    bool is_toggle_on();
 private:
 
         Joystick* joystick;

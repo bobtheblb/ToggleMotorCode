@@ -25,3 +25,12 @@ void ToggleMotor::run_toggle_m(int i_button, float f_speed_on, float f_speed_off
         
         
 }
+
+bool ToggleMotor::is_toggle_on(){
+  if (b_toggle_state == 1) {
+    return 1;
+  }
+  if (b_toggle_state == 0) {
+    return 0;
+  }
+}
